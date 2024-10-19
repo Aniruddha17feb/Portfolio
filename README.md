@@ -2,7 +2,6 @@
 Welcome to my portfolio website! This project showcases my education, projects, and provides a glimpse into my journey as a developer.
 
 ## Features
-+ Responsive design
 + Clean and modern layout
 + Project showcase with details
 + Experience and education section
